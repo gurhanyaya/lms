@@ -174,7 +174,18 @@ p {
 .code {
     color: black;
 }
-.id {
+.ice {
     border-bottom: 4px solid #09e1c0;
     width: 35px;
+}
+.id {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.id-left {
+    width: 50%;
+}
+.id-right {
+    width: 50%;
 }
