@@ -67,6 +67,7 @@ button:hover {
 }
 .section {
     display: flex;
+    margin-top: 100px;
 } 
 
 .section-left {
@@ -116,4 +117,34 @@ p {
 }
 .cost {
     display: flex;
+}
+
+.select {
+    display: flex;
+    color: white;
+    margin-top: 100px;
+}
+
+.select-left {
+    width: 50%;
+}
+
+.select-right {
+    width: 50%;
+}
+.para4 {
+    color:#d4cafb;
+}
+
+.select {
+background-blend-mode: overlay;
+background-image: url("picture-texture.jpg"), linear-gradient(180deg, #474ab6 0%, #9271f6 100%);
+display: flex;
+padding: 100px;
+max-height: 250px;
+}
+
+.para {
+    border-bottom: 4px solid #09e1c0;
+    width: 35px;
 }
