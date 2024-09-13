@@ -151,3 +151,30 @@ p {
     border-bottom: 4px solid #09e1c0;
     width: 35px;
 }
+
+.cost {
+    display: flex;
+    margin-top: 100px;
+}
+
+.cost-left {
+    width: 50%;
+}
+
+.cost-right {
+    width: 50%;
+}
+.ico {
+    color:#7272ff;
+}
+
+.icos {
+    color: #8585bd;
+}
+.code {
+    color: black;
+}
+.id {
+    border-bottom: 4px solid #09e1c0;
+    width: 35px;
+}
