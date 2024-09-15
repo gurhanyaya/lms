@@ -42,6 +42,7 @@
     display: flex;
     padding: 100px;
     max-height: 250px;
+    padding-left: 115px;
 }
 
 .left {
@@ -69,6 +70,8 @@ button:hover {
 .section {
     display: flex;
     margin-top: 100px;
+    padding-left: 115PX;
+    padding-right: 35px;
 }
 
 .section-left {
@@ -119,12 +122,14 @@ p {
 
 .cost {
     display: flex;
+    margin-top: 100px;
 }
 
 .select {
     display: flex;
     color: white;
     margin-top: 100px;
+    padding-left: 115PX;
 }
 
 .select-left {
@@ -154,7 +159,7 @@ p {
 
 .cost {
     display: flex;
-    margin-top: 100px;
+    padding-left: 115px;
 }
 
 .cost-left {
@@ -181,11 +186,25 @@ p {
 .id {
     display: flex;
     margin-top: 100px;
-    margin-left: 50px;
+    padding-left: 115px;
 }
 .id-left {
     width: 50%;
 }
 .id-right {
+    width: 50%;
+}
+ 
+.maion {
+    display: flex;
+    margin-top: 100px;
+    padding-left: 115px;
+}
+
+.maion-left {
+    width: 50%;
+}
+
+.maion-right {
     width: 50%;
 }
