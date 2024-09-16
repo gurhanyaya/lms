@@ -208,3 +208,28 @@ p {
 .maion-right {
     width: 50%;
 }
+
+.feet {
+    display: flex;
+    
+    background-blend-mode: overlay;
+    background-image: url("picture-texture.jpg"), linear-gradient(180deg, #474ab6 0%, #9271f6 100%);
+    display: flex;
+    padding: 100px;
+    max-height: 250px;
+}
+
+.feet-left {
+    width: 50%;
+}
+.feet-right {
+    width: 50%;
+}
+
+.per {
+    color: white;
+    padding-left: 10px;
+}
+.para1 {
+    display: flex;
+}
