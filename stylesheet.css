@@ -76,6 +76,7 @@ button:hover {
 
 .section-left {
     width: 40%;
+    padding-right: 22px;
 }
 
 .section-right {
@@ -122,7 +123,6 @@ p {
 
 .cost {
     display: flex;
-    margin-top: 100px;
 }
 
 .select {
@@ -159,7 +159,6 @@ p {
 
 .cost {
     display: flex;
-    padding-left: 115px;
 }
 
 .cost-left {
@@ -169,32 +168,38 @@ p {
 .cost-right {
     width: 50%;
 }
+
 .ico {
-    color:#7272ff;
+    color: #7272ff;
 }
 
 .icos {
     color: #8585bd;
 }
+
 .code {
     color: black;
 }
+
 .ice {
     border-bottom: 4px solid #09e1c0;
     width: 35px;
 }
+
 .id {
     display: flex;
     margin-top: 100px;
     padding-left: 115px;
 }
+
 .id-left {
     width: 50%;
 }
+
 .id-right {
     width: 50%;
 }
- 
+
 .maion {
     display: flex;
     margin-top: 100px;
@@ -211,7 +216,7 @@ p {
 
 .feet {
     display: flex;
-    
+
     background-blend-mode: overlay;
     background-image: url("picture-texture.jpg"), linear-gradient(180deg, #474ab6 0%, #9271f6 100%);
     display: flex;
@@ -222,6 +227,7 @@ p {
 .feet-left {
     width: 50%;
 }
+
 .feet-right {
     width: 50%;
 }
@@ -230,6 +236,103 @@ p {
     color: white;
     padding-left: 10px;
 }
+
 .para1 {
     display: flex;
+}
+
+.doing {
+    display: flex;
+    padding-left: 80px;
+    padding-right: 40px;
+    margin-top: 100px;
+
+}
+
+.doing-left {
+    width: 40%;
+}
+
+.doing-right {
+    width: 60%;
+}
+.contact {
+    border: 3px solid #09e1c0;
+    width: 30px;
+}
+.far {
+    color: #7272ff;
+}
+.pat {
+    color: black;
+}
+button {
+    
+    background-color: #7272ff;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 100px;
+    font-weight: 700;
+    font-size: 16px;
+}
+.di {
+    display: flex;
+    gap: 20px;
+}
+
+.di {
+    display: flex;
+}
+
+.pet {
+    color: #8d8fc1;
+}
+
+.chars {
+    display: flex;
+    margin-top: 100px;
+}
+
+.chars-left {
+    width: 50%;
+}
+.chars-right {
+    width: 50%;
+    padding-left: 20px;
+}
+.red {
+    display: flex;
+    color: #7272ff;
+}
+.rel {
+    color: #8589c1;
+}
+.col {
+    border: 1px solid rgb(202, 198, 198);
+    background-color: white;
+}
+.cs {
+    color: #7272ff;
+    margin-top: 40px;
+}
+.portfolio {
+    color: #8589c1;
+}
+button {
+    margin-top: 30px;
+    padding-left: 30px;
+    position: relative;
+}
+.conubia {
+    display: flex;
+}
+.rac {
+    background-color: white;
+    color: #7272ff;
+}
+.ta {
+    background-color: black;
+}
+.para5 {
+    color: #666;
 }
